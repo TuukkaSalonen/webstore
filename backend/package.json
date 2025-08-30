@@ -42,7 +42,7 @@
     "joi": "^17.7.0",
     "jsonwebtoken": "^9.0.0",
     "lowdb": "^5.1.0",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.1",
     "uuid": "^9.0.0"
   },
   "semistandard": {
